@@ -1,0 +1,17 @@
+<settings>
+  <ListenPort>7000</ListenPort>
+  <IPv6Support>False</IPv6Support>
+  <AutoListen>False</AutoListen>
+  <ShowPopup>True</ShowPopup>
+  <UseUPnP>False</UseUPnP>
+  <ShowToolTip>False</ShowToolTip>
+  <EnableNoIPUpdater>False</EnableNoIPUpdater>
+  <NoIPHost>
+  </NoIPHost>
+  <NoIPUsername>
+  </NoIPUsername>
+  <NoIPPassword>
+  </NoIPPassword>
+  <SaveFormat>APP - URL - USER:PASS</SaveFormat>
+  <ReverseProxyPort>3128</ReverseProxyPort>
+</settings>
