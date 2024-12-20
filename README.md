@@ -8,7 +8,7 @@ This source code is for educational purposes only.
 
 Contact me on Telegram - https://t.me/hidden9090
 
-# How to Compiling           
+# How to Compiling            
 
 - Download the project to your computer as zip
 - Extract Project to Folder.
