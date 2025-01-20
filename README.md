@@ -4,7 +4,7 @@ The S-500 G2 Rat HVNC is a top remote administration tool with advanced HVNC fea
     
 ## Disclaimer       
   
-This source code is for educational purposes only.   
+This source code is for educational purposes only.    
  
 Contact me on Telegram - https://t.me/hidden9090 
 
